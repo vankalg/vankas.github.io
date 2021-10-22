@@ -1,0 +1,100 @@
+a:  {
+	color: cyan;
+	text-decoration: none;
+}
+a: hover {
+	background: white;
+}
+.FooterText {
+	color: gray;
+	font-size: 15px;
+}
+
+body {
+	background: rgb(15, 15, 15);
+	color: white;
+}
+
+#Heder {
+	text-align: center;
+	width: 100%;
+	height: 275px;
+background-image: url(fgfg.png) ; 
+background-repeat: no-repeat;
+background-size: cover ;
+}
+
+#Navigation {
+	background: rgb(30, 30, 30);
+	width: 70%;
+	height: auto;
+	margin: auto;
+	text-align: center;
+	padding: 0, 15px;
+}
+
+
+#Content {
+	background: rgb(30, 30, 30);
+	width: 70%;
+	height: auto;
+	margin: auto;
+}
+
+#Footer {
+	background: rgb(30, 30, 30);
+	width: 70%;
+	height: auto;
+	margin: auto;
+	text-align: center;
+}
+#forest{
+	text-align: center;
+}
+#mid {
+	background: url(yos.png);
+}
+.text0{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+.way{
+	
+background-size: cover;
+margin: 0;
+display: flex;
+
+}
+.way p{
+	max-width: 6000px;
+	text-align: right;
+
+}
+.steel{
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+}
+.steel p{
+	max-width: 6000px;
+	text-align: right;
+
+
+}
+.Steel_Tempest_3{
+
+	background-repeat: no-repeat;
+	margin: 0;
+	height: auto;
+
+	display: flex;
+
+}
+.Steel_Tempest_3 p{
+	max-width: 6000px;
+	text-align: right;
+	
+}
